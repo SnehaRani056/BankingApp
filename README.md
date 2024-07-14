@@ -1,5 +1,5 @@
 # BankingApp Using Java
-A java-based banking application that simulates basic banking operations such as account creation, deposits, withdrawals, balance inquiries and money transfer.
+A java-based banking application that simulates basic banking operations such as account creation, deposits, withdrawals, balance inquiries and money transfer. It is just a mini project.
 
 # Features
 
